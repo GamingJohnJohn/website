@@ -1,1 +1,2 @@
- just copy the html file
+NOLOGINREQUIRE
+COPYHTML
